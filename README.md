@@ -7,4 +7,4 @@ Modified base Tic-Tac-Toe tutorial code from React to support a 3D board with al
 
 In addition to standard Tic-Tac-Toe rules, players can now also win by scoring 3 in a row vertically.
 
-All work was done in index.js
+All work was done in [index.js](https://github.com/TimothyBui/CPSC349_final_3dtictactoe/blob/main/src/index.js)
